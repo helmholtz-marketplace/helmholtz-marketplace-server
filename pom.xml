@@ -16,6 +16,7 @@
 
 	<properties>
 		<java.version>11</java.version>
+		<version.spring-webmvc>5.2.6.RELEASE</version.spring-webmvc>
 	</properties>
 
 	<dependencies>
@@ -42,7 +43,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.2.6.RELEASE</version>
+			<version>${version.spring-webmvc}</version>
 		</dependency>
 	</dependencies>
 
