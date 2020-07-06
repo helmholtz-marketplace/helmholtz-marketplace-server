@@ -17,3 +17,4 @@ cache:
 
 include:
     - local: .gitlab/ci/create-docker-image-ci.yml
+    - local: .gitlab/ci/static-code-analysis.yml

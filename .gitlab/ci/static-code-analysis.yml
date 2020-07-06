@@ -1,0 +1,4 @@
+ci_build:
+  stage: test_sonar
+  image: maven:3-jdk-11
+  script: "mvn -P static-code-analysis clean verify sonar:sonar"
