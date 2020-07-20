@@ -11,7 +11,7 @@
 	<groupId>de.helmholtz.marketplace</groupId>
 	<artifactId>helmholtz-marketplace-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>helmholtz-marketplace web app server</name>
+	<name>Helmholtz Marketplace Server</name>
 	<description>Helmholtz marketplace web app server</description>
 
 	<properties>
