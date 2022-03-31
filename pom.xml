@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<version.spring-webmvc>5.2.6.RELEASE</version.spring-webmvc>
+		<version.spring-webmvc>5.3.18</version.spring-webmvc>
 		<!--suppress UnresolvedMavenProperty -->
 		<sonar.token>${env.SONAR_AUTH_TOKEN}</sonar.token>
 	</properties>
